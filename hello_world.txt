@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 some text!
+=======
+some text
+spaced repetition
+>>>>>>> 31c0f9c5bded7bc8f38651d9e613d7eb587664d1
